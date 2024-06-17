@@ -1,0 +1,21 @@
+p {
+    background-color: #ffb6c1;
+    font-weight: 500;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#veryLarge {
+    color: rgb(0, 38, 255);
+    font-size: 36px;
+}
+
+.bigText {
+    font-size: 26px;
+}
+
+#boldLarge {
+    background-color: rgb(124, 230, 124);
+    font-weight: bold;
+    color: black;
+    font-size: 32px;
+}
